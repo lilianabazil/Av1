@@ -1,0 +1,14 @@
+baixar:
+
+http://getbootstrap.com/docs/4.0/getting-started/download/
+koala
+bootstrap
+github
+sublime
+
+Cria os arquivos
+index.html
+estilo.css
+
+Referência site
+http://inovatik.com/onetouch-landing-page/03-onetouch-solid-colors/index.html

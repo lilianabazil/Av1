@@ -1,0 +1,589 @@
+<div charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Onetouch Mobile App Landing Page Template</title>
+	
+	<meta property="og:site_name" content=""> 
+	<meta property="og:site" content="http://inovatik.com/onetouch-landing-page/03-onetouch-solid-colors/images/logo.svg"> <!-- website link -->
+	<meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content="http://inovatik.com/onetouch-landing-page/03-onetouch-solid-colors/images/header-iphone-6s-black-and-white.png" /><!-- image link, make sure it's jpg -->
+	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
+	<meta property="og:type" content="article" />
+	
+	<!-- SEO Meta Tags -->
+	<meta name="description" content="Attract visitors and convince them to download your mobile application with this responsive landing page in 3 design styles: photos, gradients, solid colors">
+	<meta name="keywords" content="mobile application, android app, ios app, landing page, template, promote, downloads, html, responsive, bootstrap, business, software, startup">
+	
+	<!-- Styles -->
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500" rel="estilo.css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,600" rel="stylesheet">
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/icon-font.css" rel="stylesheet">
+	<link href="css/animate.css" rel="stylesheet">
+	<link href="css/styles.css" rel="stylesheet">
+	<link href="images/favicon.png" rel="icon">
+	
+</head>
+<body class="animated fadeIn" id="top">
+	
+	<!-- Navigation -->
+	<nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+		<div class="container">
+			
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header scrolling">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+				</button>
+				
+				<!-- Text based logo -->
+				<!-- Uncomment this section and comment Image based logo, to use a text logo instead of an image logo -->
+				<!-- <a class="navbar-brand scrolling" href="#top">Onetouch</a> -->
+				
+				<!-- Image based logo -->
+				<a href="#top" class="navbar-brand img-logo scrolling" title="Onetouch Mobile App Landing Page Template">
+					<img src="images/logo.svg" alt="Logo">
+				</a>
+			</div>
+			
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a class="scrolling" href="#header">DOWNLOAD</a>
+					</li>
+					<li>
+						<a class="scrolling" href="#features">FEATURES</a>
+					</li>
+					<li>
+						<a class="scrolling" href="#description-1">DESCRIPTION</a>
+					</li>
+					<li>
+						<a class="scrolling" href="#video">VIDEO</a>
+					</li>
+					<li>
+						<a class="scrolling" href="#about-us">ABOUT US</a>
+					</li>
+					<li>
+						<a class="scrolling" href="#contact">CONTACT</a>
+					</li>
+				</ul>
+			</div> <!-- end of navbar collapse -->
+		</div> <!-- end of container fluid -->
+	</nav> <!-- end of navigation -->
+	
+	
+	<!-- Style Switcher -->
+	<div id="style-switcher">
+		<div id="toggle-switcher">
+			<img class="style-gear" src="images/style-switcher-gear.svg" alt="style switcher svg">
+		</div>
+		<h1>Select Version</h1>
+		<div class="style-switcher-cell">
+			<a href="../01-onetouch-photos/index.html"><img src="../presentation/images/01-onetouch-photos-346-x-214-px.jpg" alt="template versions"></a>
+			<a href="../01-onetouch-photos/index.html">Photos</a>
+		</div>
+		<div class="style-switcher-cell">
+			<a href="../02-onetouch-gradients/index.html"><img src="../presentation/images/02-onetouch-gradients-346-x-214-px.jpg" alt="template versions"></a>
+			<a href="../02-onetouch-gradients/index.html">Gradients</a>
+		</div>
+		<div class="style-switcher-cell">
+			<a href="../03-onetouch-solid-colors/index.html"><img src="../presentation/images/03-onetouch-solid-colors-346-x-214-px.jpg" alt="template versions"></a>
+			<a href="../03-onetouch-solid-colors/index.html">Solid Colors</a>
+		</div>
+		<div class="style-switcher-buttons">
+			<a class="style-switcher-back-button" href="../index.html">BACK</a>
+			<!--<a class="style-switcher-buy-button" href="https://creativemarket.com/Inovatik/1060762-OneTouch-Mobile-App-Landing-Page?u=Inovatik">BUY</a>-->
+		</div>
+	</div> <!-- end of style switcher -->
+	
+	
+	<!--- Header -->
+    <header id="header">
+		<div class="flex-container-wrapper"> <!-- IE fix for vertical alignment in flex box -->
+			<div class="header-content">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<img class="img-responsive center-block" src="images/header-iphone-6s-black-and-white.png" alt="header image">
+						</div>
+						<div class="col-md-6">
+							<div class="call-to-action">
+								<h1>Mobile App Landing Page</h1>
+								<p><span class="app-price">$18.99</span> - download Onetouch mobile app and prepare for having a lot of fun communicating with your team</p>
+								<div class="header-buttons">
+									<a class="button-large-solid scrolling" href="#"><span class="google-icon"></span>Google Store</a>
+									<a class="button-large-solid scrolling" href="#"><span class="apple-icon"></span>Apple Store</a>
+								</div>	
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> <!-- end of IE vertical alignment fix -->
+    </header> <!-- end of header -->
+    
+	
+	<!-- Testimonials -->
+	<div id="testimonials">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					
+					<!-- Testimonials Carousel -->
+					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="7000"> <!-- for time interval between slides, change data-interval -->
+						
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner">
+							<div class="item active">
+								<div class="carousel-content">
+									<div class="center-block">
+										<p>"I've been searching for a capable piece mobile application that can help us better manage our team communication and Onetouch is just that, a reliable mobile app that enables better team collaboration. I recommend it to everyone that has big projects to manage and large teams to work with. You will not regret downloading it."</p> 
+										<h2>Ron Gates, MoveUp - General Manager</h2>	
+									</div>	
+								</div>
+							</div>
+							<div class="item">
+								<div class="carousel-content">
+									<div class="center-block">
+										<p>"Besides being built to handle team communication, Onetouch works great for project management too. Generally it's helpful for any process where you have lots of team members that need to be controlled and evaluated. Onetouch is the right app for anyone that wants to be organized and professional in the way they interact with their co-workers."</p> 
+										<h2>Lara Smith, OnlyTwo - Managing Partner</h2>	
+									</div>	
+								</div>
+							</div>
+							<div class="item">
+								<div class="carousel-content">
+									<div class="center-block">
+										<p>"Onetouch's development team handled all our request beautifully and managed to integrate Onetouch into our business flow without major problems. The app runs smoothly and has a fluid User Interface that can be used right away without any training. The feature that impressed me the most was the reporting section."</p> 
+										<h2>Bob Dole, Ignite - IT Manager</h2>	
+									</div>	
+								</div>
+							</div>
+						</div>
+						
+						<!-- Indicators -->
+						<ol class="carousel-indicators center-block">
+							<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+							<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+							<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+						</ol>
+					</div> <!-- end of testimonials carousel -->
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of testimonials -->
+	
+	
+	<!-- Features -->
+    <div id="features">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1>FEATURES</h1>
+					<p>Onetouch was built to help small and large teams with their communication and collaboration processes, improving management capabilities while enabling its users to focus on meeting the project's objectives. Check out the features:</p>
+				</div>
+				<div class="col-md-4">
+					<div class="col-xs-12">
+						<div class="feature-box top">
+							<span class="icon-telescope features-icons"></span>
+							<div class="features-text">
+								<h3>Deadline Estimation</h3>
+								<p>Onetouch's algorithms are built to help you achieve projects' objectives while reducing costs through optimization</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div class="feature-box">
+							<span class="icon-hotairballoon features-icons"></span>
+							<div class="features-text">
+								<h3>Great Scalability</h3>
+								<p>Works smoothly even on older generation smartphone hardware due to our efforts invested in design & coding</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div class="feature-box">
+							<span class="icon-lock features-icons"></span>
+							<div class="features-text">
+								<h3>User Management</h3>
+								<p>Onetouch offers the complete range of user control options from complete administrator rights to read-only access</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-4 text-center">
+					<div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
+						
+						<!-- Indicators -->
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
+							<li data-target="#myCarousel" data-slide-to="2"></li>
+						</ol>
+						
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<img src="images/features-iphone-6-slide-1.png" alt="Image slider 1">
+							</div>
+							<div class="item">
+								<img src="images/features-iphone-6-slide-2.png" alt="Image slider 2">
+								</div>
+							<div class="item">
+								<img src="images/features-iphone-6-slide-3.png" alt="Image slider 3">
+							</div>
+						</div>
+						
+						<!-- Left and right controls -->
+						<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+						<span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+						</a>
+						<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+						<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="col-xs-12">
+						<div class="feature-box top">
+							<span class="icon-tools features-icons"></span>
+							<div class="features-text">
+								<h3>Language Options</h3>
+								<p>Choose from one of the 40 languages that come pre-installed with Onetouch and start working right away</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div class="feature-box">
+							<span class="icon-tools-2 features-icons"></span>
+							<div class="features-text">
+								<h3>Devices Integration</h3>
+								<p>Your team members can use Onetouch mobile app on any smartphone platform without unpleasant compatibility issues</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12">
+						<div class="feature-box">
+							<span class="icon-ribbon features-icons"></span>
+							<div class="features-text">
+								<h3>Continuous Updates</h3>
+								<p>Don't worry about future costs, pay once and receive all app updates at no extra cost, using our cloud platform</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    </div> <!-- end of features -->
+	
+	
+	<!-- Description 1 -->
+    <div id="description-1">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1>DESCRIPTION</h1>
+				</div>
+				<div class="col-md-6 col-lg-7">
+					<img class="img-responsive" src="images/description-image-1.png" alt="description image 1">
+				</div>
+				<div class="col-md-6 col-lg-5">
+					<h2>The Perfect App To Improve Your Team's Productivity</h2>
+					<p>We've built Onetouch with a very precise mission which is to help both managers and team members communicate and work together better.</p>
+					<p>We enjoy creating solutions that bring people together with the help of technology.</p>
+					<div class="text-center">
+						<a class="button-small-solid scrolling" href="#insert-your-link">Read More</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of description 1 -->
+	
+	
+	<!-- Description 2 -->
+	<div id="description-2">
+		<div class="container">	
+			<div class="row">
+				<div class="col-md-6 col-md-push-6 col-lg-7 col-lg-push-5">
+					<img class="img-responsive" src="images/description-image-2.png" alt="description image 2">
+				</div>
+				<div class="col-md-6 col-md-pull-6 col-lg-5 col-lg-pull-7">
+					<!-- Tabs -->
+					<ul class="nav nav-pills">
+						<li class="active"><a href="#tab_a" data-toggle="tab">Dashboard</a></li>
+						<li><a href="#tab_b" data-toggle="tab">Statistics</a></li>
+						<li><a href="#tab_c" data-toggle="tab">Support</a></li>
+					</ul>
+					<div class="tab-content">
+						<div class="tab-pane fade in active" id="tab_a">
+							<p>Onetouch is the right mobile application for project and team management. Download it today and notice how:</p>
+							<ul>
+								<li><span class="checkmark">&#x2713;</span>You and your team begin to be more productive</li>
+								<li><span class="checkmark">&#x2713;</span>You get more stuff done throughout the day</li>
+								<li><span class="checkmark">&#x2713;</span>Objectives are met daily and you are in control</li>
+							</ul>
+							<div class="text-center">
+								<a class="button-small-solid scrolling" href="#about-us">About Us</a>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="tab_b">
+							<p>Customers reported increased performance in the following business areas, on average:</p>
+							<div class="progress">
+								<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+									Improved Productivity 70%
+								</div>
+							</div>
+							<div class="progress">	
+								<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+									Goals Realization 90%
+								</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
+									Accuracy Increase 80%
+								</div>
+							</div>
+						</div>
+						<div class="tab-pane fade" id="tab_c">
+							<p>We are proud about the community we've created around Onetouch and we'll continue to invest significant resources in it's development.</p>
+							<p>When you download Onetouch you also get access to our extensive knowledge base containing updated written articles and easy to follow video tutorials.</p>
+							<div class="text-center">
+								<a class="button-small-solid scrolling" href="#header">Download</a>
+							</div>
+						</div>
+					</div><!-- end of tab content -->
+				</div>
+				
+			</div>
+		</div>
+    </div> <!-- end of description 2 -->
+	
+	
+	<!-- Video -->
+	<div id="video">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1 text-center">
+					<div class="embed-responsive embed-responsive-16by9 center-block">
+						<iframe src="https://www.youtube.com/embed/Ey1lkwYGSC0" allowfullscreen></iframe>
+					</div>
+				</div>
+				<div class="col-md-10 col-md-offset-1 text-center">
+					<p>Onetouch was developed for better team collaboration and communication while enabling its users to focus on meeting the project's goals. Check out the video for a quick overview of its main features.</p>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of video -->
+	
+	
+	<!-- About Us -->
+	<div id="about-us">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1>ABOUT US</h1>
+					<p class="sub-heading">We're a young and determined company built by a professional and enthusiastic team, driven by our customers' success stories. Although we come from different backgrounds and have very different skill sets as individuals, as a team we're united by the same goal and we're always relying on each other's expertise. </p>
+					<img class="img-responsive img-rounded about-image center-block" src="images/about-us-image.jpg" alt="about">
+					<h2>You can also checkout some of the other mobile apps in our portfolio</h2>
+				</div>	
+				<div class="development-process text-center">
+					<div class="col-md-3">
+						<img class="img-responsive center-block" src="images/other-apps-1.jpg" alt="image">
+						<div class="text-div">
+							<p class="box-title text-center">FMCG Marketing</p>
+							<p>Consumer marketing application developed to launch, manage and evaluate consumer goods marketing campaigns.</p>
+						</div>
+						<div class="text-center">
+							<a class="button-small-solid scrolling" href="#insert-link-here">See Details</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<img class="img-responsive center-block" src="images/other-apps-2.jpg" alt="image">
+						<div class="text-div">
+							<p class="box-title text-center">Distribution Manager</p>
+							<p>Application designed to increase the speed and accuracy of your warehouse operations to keep costs and losses at a minimum.</p>
+						</div>
+						<div class="text-center">
+							<a class="button-small-solid scrolling" href="#insert-link-here">See Details</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<img class="img-responsive center-block" src="images/other-apps-3.jpg" alt="image">
+						<div class="text-div">
+							<p class="box-title text-center">Traceability</p>
+							<p>Software built to keep track of your product assembly status and optimize investments in research and development.</p>
+						</div>
+						<div class="text-center">
+							<a class="button-small-solid scrolling" href="#insert-link-here">See Details</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<img class="img-responsive center-block" src="images/other-apps-4.jpg" alt="image">
+						<div class="text-div">
+							<p class="box-title text-center">Status Reports</p>
+							<p>As the name suggest, Status Reports mobile app focuses on generating business reports based on user collected data.</p>
+						</div>
+						<div class="text-center">
+							<a class="button-small-solid scrolling" href="#insert-link-here">See Details</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of about us -->
+	
+	
+	<!-- Newsletter -->
+	<div id="newsletter">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p class="text-center">Onetouch is the main mobile application we are working on right now but we're constantly developing new applications. Sign up to our newsletter and we'll keep you posted once a month with news about Onetouch and our other apps.</p>
+				</div>
+				<div class="col-md-12 text-center">
+					
+					<!-- Newsletter Subscription Form -->
+					<form id="NewsletterForm" data-toggle="validator" >
+						<div class="form-group">
+							<input type="email" class="form-control" id="nemail" placeholder="Your Email" required>
+							<button type="submit" class="button-small-solid">Sign Me Up</button>
+						</div>
+						<div class="text-center">
+							<div id="nmsgSubmit" class="h3 text-center hidden"></div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of newsletter -->
+	
+	
+	<!--- Our Team -->
+	<div id="our-team">
+		<div class="container">
+			<div id="row">
+				<div class="col-md-12 text-center">
+					<h1>OUR TEAM</h1>
+					<div class="team-members center-block">
+						<img src="images/team-member-1.png" alt="team">
+						<p class="center-block">Melissa Craig<br>
+						<span class="job-title">MANAGER</span></p>
+					</div>
+					<div class="team-members center-block">
+						<img src="images/team-member-2.png" alt="team">
+						<p class="center-block">Tom Brokerage<br>
+						<span class="job-title">SALES</span></p>
+					</div>
+					<div class="team-members center-block">
+						<img src="images/team-member-3.png" alt="team">
+						<p class="center-block">Rev Dunhill<br>
+						<span class="job-title">DEVELOPER</span></p>
+					</div>
+					<div class="team-members center-block">
+						<img src="images/team-member-4.png" alt="team">
+						<p class="center-block">Miriam Stool<br>
+						<span class="job-title">DESIGNER</span></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of our team -->
+	
+	
+	<!-- Social Media -->
+	<div id="social-media">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<a href="#insert-link-here"><span class="icon-facebook"></span></a>
+					<a href="#insert-link-here"><span class="icon-twitter"></span></a>
+					<a href="#insert-link-here"><span class="icon-tumblr"></span></a>
+					<a href="#insert-link-here"><span class="icon-dribbble"></span></a>
+					<a href="#insert-link-here"><span class="icon-googleplus"></span></a>
+					<a href="#insert-link-here"><span class="icon-linkedin"></span></a>
+					
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of social media -->
+	
+	
+	<!-- Contact -->
+	<div id="contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1>CONTACT</h1>
+				</div>
+				
+				<!-- Google Map -->
+				<div class="col-md-6">
+					<div class="map-responsive">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1241.5303553091994!2d-0.14076024298621118!3d51.51210217963597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604d502268421%3A0x6a7d62889992f993!2sRegent+St%2C+Soho%2C+London+W1B+5TH%2C+UK!5e0!3m2!1sen!2sro!4v1476174541049" allowfullscreen></iframe>
+					</div>
+				</div>
+				
+				<!-- Contact Form -->
+				<div class="col-md-6">
+					<form id="ContactForm" data-toggle="validator">
+						<div class="col-md-4">
+							<div class="form-group">
+								<input type="text" class="form-control" id="cfirstname" placeholder="First Name" required>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<input type="text" class="form-control" id="clastname" placeholder="Last Name" required>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="form-group">
+								<input type="email" class="form-control" id="cemail" placeholder="Email" required>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="form-group">
+								<textarea class="form-control" id="cmessage" placeholder="Write your message here" rows="4" required></textarea>
+							</div>
+						</div>
+						<div class="col-md-12">
+							<div class="text-center">
+								<button type="submit" class="button-small-solid">Submit Message</button>
+								<div id="cmsgSubmit" class="h3 text-center hidden"></div>
+							</div>
+						</div>
+					</form>
+				</div>
+				
+				<!-- Location Information -->
+				<div class="col-md-12 location-information text-center">
+					<p>Use the contact form to ask us any questions or get in touch using the following contact information:</p>
+					<ul>
+						<li><span class="location-item"><span class="icon-map-pin location-icons"></span>11th Regent Street, Piccadilly, UK</span></li>
+						<li><span class="location-item"><span class="icon-phone location-icons"></span>+28 86 411 255</span></li>
+						<li><span class="location-item"><span class="icon-phone location-icons"></span>+28 86 412 266</span></li>
+						<li><span class="location-item"><span class="icon-envelope location-icons"></span><a href="#insert-link-here">contact@onetouch.com</a></span></li>
+						<li><span class="location-item"><span class="icon-global location-icons"></span><a href="#insert-link-here">www.onetouch.com</a></span></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of contact -->
+	
+	
+	<!-- Footer -->
+	<footer>
+		<p>Copyright © Onetouch - Mobile App Landing Page Template</p>
+	</footer>
+	
+	
+	<!-- Scripts -->
+    <script src="js/jquery-2.2.4.min.js" type="text/javascript"></script> <!-- jQuery v2.2.4 (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="js/bootstrap.min.js" type="text/javascript"></script> <!-- Bootstrap v3.3.7 -->
+	<script src="js/jquery.easing.min.js" type="text/javascript"></script> <!-- jQuery Easing v1.3 for smooth scrolling between anchors -->
+	<script src="js/validator.min.js" type="text/javascript"></script> <!--  Validate the Contact Form -->
+	<script src="js/scripts.js" type="text/javascript"></script> <!-- Onetouch custom scripts -->
+    
